@@ -1,2 +1,2 @@
-# x
+# bebas
 Repo ini digunakan untuk mencoba dan belajar mengenai Github G
